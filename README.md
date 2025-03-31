@@ -7,8 +7,8 @@
 ### Execution Requirement: .NET Framework 4.0 
 ### [LINK DOWNLOAD (NET 4.0):  https://www.mediafire.com/file/4jhlkaaeashxy1g/NetFramework4.exe/file]<br><br>
 ## 🚫 PHOTOSENSITIVE SEIZURE WARNING 🚫
-### Specific Graphic Effects? YES
-### Loud or Intense Audio? YES<br><br>
+### Specific Graphic Effects? NO
+### Loud or Intense Audio? NO<br><br>
 ## ☣⚠ -WARNING- ⚠☣
 ### I, CYBERWARE, am not responsible for any damages or losses resulting from the use.<br><br>
 ## ⤵ RECOMMENDATION ⤵
