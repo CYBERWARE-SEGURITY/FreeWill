@@ -1,0 +1,2 @@
+# FreeWill
+RansomUSBWorm.Win32
