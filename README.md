@@ -2,7 +2,7 @@
 ### Developer: CYBERWARE
 ### Language: Csharp (C#)
 ### Version: 1.0
-### Category: GDI-EmailWorm.Win32
+### Category: RansomUSBWorm.Win32
 ### Compatible Platforms: WinXP, WinVista, Win7, Win8, Win8.1, Win10, Win11
 ### Execution Requirement: .NET Framework 4.0 
 ### [LINK DOWNLOAD (NET 4.0):  https://www.mediafire.com/file/4jhlkaaeashxy1g/NetFramework4.exe/file]<br><br>
@@ -18,5 +18,4 @@
 ### ✯ Discord: t3nx1l
 ### ☁ Meu Site:  [CYBERWARE PROFILE] (https://linkfly.to/CYBERWARE)
 ## 🔴  Test Video  🔴
-### Made by Me(CYBERWARE): [https://youtu.be/o3Kodt_MIbI]
-### Made by Joaozz1nn: [https://youtu.be/sSMeOHTPBP0]
+### Made by Me(CYBERWARE): [...............]
