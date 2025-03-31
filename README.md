@@ -10,7 +10,7 @@
 ### Specific Graphic Effects? NO
 ### Loud or Intense Audio? NO<br><br>
 ## ☣⚠ -WARNING- ⚠☣
-### I, CYBERWARE, am not responsible for any damages or losses resulting from the use.<br><br>
+### I, CYBERWARE, am not responsible for any damages or losses resulting.<br><br>
 ## ⤵ RECOMMENDATION ⤵
 ### For testing and study purposes, I strongly recommend using virtual machines like VMware or VirtualBox.<br><br>
 ## ❇ SOCIALS ❇
