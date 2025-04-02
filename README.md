@@ -1,3 +1,4 @@
+# ❕❕  Executable Against Reverse Engineering  ❕❕
 ## 👁️‍🗨️ INFORMATION 👁️‍🗨️
 ### Developer: CYBERWARE
 ### Language: Csharp (C#)
