@@ -7,7 +7,7 @@
 
 
 
-This Malware is not Open Source, sorry :D;
+This Malware is not Open Source, sorry :D
 
 
 
